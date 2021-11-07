@@ -21,7 +21,7 @@ public class WalesTest extends Base{
 	
 	/* ******************************************************************************************************
 	 * Test Name: Wales Test
-	 * Purpose: To validate the NHS Cost Checker Tool for Country Wales
+	 * Purpose: To validate the NHS Cost Checker Tool for Wales Country
 	 * History Created by Anjali Johny
 	 * *****************************************************************************************************/
 	
