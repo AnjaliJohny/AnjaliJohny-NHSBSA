@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="Main"/>
+	<classpathentry kind="src" path="Test"/>
+	<classpathentry kind="src" path="Resources"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/Selenium/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-4.1.0/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/poi-bin-5.1.0/auxiliary/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/AnjaliProjects/ExtendReports jars/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

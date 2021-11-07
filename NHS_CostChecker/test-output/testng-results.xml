@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143691" started-at="2021-11-07T14:00:07Z" finished-at="2021-11-07T14:02:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143691" started-at="2021-11-07T14:00:07Z" finished-at="2021-11-07T14:02:31Z">
+      <class name="com.qa.testCase.WalesTest">
+        <test-method status="PASS" signature="setReport()[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="setReport" is-config="true" duration-ms="368" started-at="2021-11-07T19:30:07Z" finished-at="2021-11-07T19:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method status="PASS" signature="validateNHSCostChecker(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="validateNHSCostChecker" duration-ms="22590" started-at="2021-11-07T19:30:08Z" data-provider="getNHSCostCheckerTestData" finished-at="2021-11-07T19:30:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Scn1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[07]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[02]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1998]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNHSCostChecker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="815" started-at="2021-11-07T19:30:31Z" finished-at="2021-11-07T19:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateNHSCostChecker(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="validateNHSCostChecker" duration-ms="20037" started-at="2021-11-07T19:30:32Z" data-provider="getNHSCostCheckerTestData" finished-at="2021-11-07T19:30:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Scn2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[05]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[02]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1994]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNHSCostChecker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="791" started-at="2021-11-07T19:30:52Z" finished-at="2021-11-07T19:30:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateNHSCostChecker(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="validateNHSCostChecker" duration-ms="22452" started-at="2021-11-07T19:30:53Z" data-provider="getNHSCostCheckerTestData" finished-at="2021-11-07T19:31:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Scn3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[07]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[03]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNHSCostChecker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="849" started-at="2021-11-07T19:31:15Z" finished-at="2021-11-07T19:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateNHSCostChecker(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="validateNHSCostChecker" duration-ms="26619" started-at="2021-11-07T19:31:16Z" data-provider="getNHSCostCheckerTestData" finished-at="2021-11-07T19:31:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Scn4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[02]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1996]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNHSCostChecker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="907" started-at="2021-11-07T19:31:43Z" finished-at="2021-11-07T19:31:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateNHSCostChecker(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="validateNHSCostChecker" duration-ms="23278" started-at="2021-11-07T19:31:43Z" data-provider="getNHSCostCheckerTestData" finished-at="2021-11-07T19:32:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Scn5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1998]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNHSCostChecker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="897" started-at="2021-11-07T19:32:07Z" finished-at="2021-11-07T19:32:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateNHSCostChecker(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="validateNHSCostChecker" duration-ms="21621" started-at="2021-11-07T19:32:08Z" data-provider="getNHSCostCheckerTestData" finished-at="2021-11-07T19:32:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Scn6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[05]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1995]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNHSCostChecker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="839" started-at="2021-11-07T19:32:29Z" finished-at="2021-11-07T19:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.qa.testCase.WalesTest@5e3a8624]" name="endReport" is-config="true" duration-ms="740" started-at="2021-11-07T19:32:30Z" finished-at="2021-11-07T19:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.qa.testCase.WalesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
